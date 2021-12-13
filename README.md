@@ -6,7 +6,7 @@ Small util to show all the projects you need in one place, able to launch what y
 > 
 > [InTag GitHub project](https://github.com/Jamminroot/intag)
 
-> **SUGGESTIONS ARE WELOME, SO ARE DONATIONS**, as they both boost my motivattion to improve those tools :+1:
+> **SUGGESTIONS ARE WELOME, SO ARE DONATIONS**, as they both boost my motivation to improve those tools :+1:
 
 > __NOTE__
 Be aware that this tool was initially made just for myself, and, since I'm just a flutter hobbyist, CodeStyle, design choices and stuff like that might be lacking.
