@@ -1,3 +1,7 @@
+## 1.2.2.0
+- **FIX** Fixed addition of new projects (placed missing button back)
+- Happy new year!
+
 ## 1.2.1.0
 - **NEW** `Escape` key now clears the filter text
 
