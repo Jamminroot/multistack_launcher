@@ -1,3 +1,11 @@
+## 1.3.2.0
+- **FIX** Notes: Fix note contents height
+- **FIX** Notes: Fix tab text updates on title changes
+- **CHANGE** Notes: Changed look and position of `Close` (aka "back") button - now it's in the top-left corner, and is just an arrow
+- **FIX** Fix duplicates creation upon project edit
+- **FIX** Project editor overflow - added scroll to the dialog
+- **NEW** Updated Flutter version to 2.9.2
+
 ## 1.3.1.0
 - **FIX** Fix settings not loading bug
 
