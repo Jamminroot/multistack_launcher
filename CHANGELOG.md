@@ -1,3 +1,7 @@
+## 1.4.1.0
+- **FIX** Fixed UI bug when editing active tag
+- **FIX** Fixed bug which did not allow to add new projects on a fresh install
+- **NEW** Version upgrades
 
 ## 1.4.0.0
 - **FIX** Fix windows 11 compatibility issue (found on dev\beta channels)
