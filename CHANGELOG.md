@@ -1,3 +1,8 @@
+
+## 1.4.0.0
+- **FIX** Fix windows 11 compatibility issue (found on dev\beta channels)
+- **NEW** Updated Flutter version to 2.10.4
+
 ## 1.3.2.0
 - **FIX** Notes: Fix note contents height
 - **FIX** Notes: Fix tab text updates on title changes
