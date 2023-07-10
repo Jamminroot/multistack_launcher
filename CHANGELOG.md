@@ -1,3 +1,11 @@
+## 1.6.0.0
+- **NEW** Added an option to disable git updates and UI
+- **NEW** Added new theme (dark colors, with respect to Windows accent color)
+- **NEW** Added an option to clear search bar upon app launching
+- **NEW** Version upgrades
+- **FIX** Minor changes
+- **NEW** **IMPORTANT** Changed the icons package, so now it's required to re-configure the icons for the stacks. Sorry for the inconvenience.
+
 ## 1.4.1.0
 - **FIX** Fixed UI bug when editing active tag
 - **FIX** Fixed bug which did not allow to add new projects on a fresh install
