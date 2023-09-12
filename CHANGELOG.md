@@ -1,3 +1,6 @@
+## 1.7.0.0
+- **NEW** Added acrylic effect to the main window
+
 ## 1.6.0.0
 - **NEW** Added an option to disable git updates and UI
 - **NEW** Added new theme (dark colors, with respect to Windows accent color)

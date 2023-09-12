@@ -11,7 +11,7 @@ Small util to show all the projects you need in one place, able to launch what y
 > __NOTE__
 Be aware that this tool was initially made just for myself, and, since I'm just a flutter hobbyist, CodeStyle, design choices and stuff like that might be lacking.
 
-![Main window](images/main.png "Main window")
+![Main window](images/acrylic.png "Main window")
 
 ## Features
 
